@@ -4,18 +4,24 @@ Las skills de Eikon para el área de social media y contenidos, construidas a pa
 
 Es la segunda entrega. La primera (5 de octubre) fue para gerencia y dirección de cuentas: [camilordholaamigo/entrega-eikon-skills-fase1](https://github.com/camilordholaamigo/entrega-eikon-skills-fase1). Las skills que se repiten son la misma versión.
 
-Esta va para tres personas, cada una con su carpeta:
+Esta va para las 9 personas del equipo, cada una con su carpeta. **Todas tienen las mismas 16 skills**; lo que cambia es cómo vienen agrupadas en su guía:
 
-| Carpeta | Para | Generales | Específicas | Total |
-|---|---|---:|---:|---:|
-| [`kimberly-chocano/`](kimberly-chocano/) | Kimberly Chocano · Dirección de Social Media | 4 | 11 | 15 |
-| [`carolina-valbuena/`](carolina-valbuena/) | Carolina Valbuena · Content y Community Management · cuenta de Ecuador | 4 | 11 | 15 |
-| [`lina-lancheros/`](lina-lancheros/) | Lina Lancheros · Content Manager | 4 | 9 | 13 |
+| Carpeta | Para | Su guía agrupa las skills por | Total |
+|---|---|---|---:|
+| [`kimberly-chocano/`](kimberly-chocano/) | Kimberly Chocano · Dirección de Social Media | los procesos que contó en su entrevista | 16 |
+| [`carolina-valbuena/`](carolina-valbuena/) | Carolina Valbuena · Content y Community Management · cuenta de Ecuador | los procesos que contó en su entrevista | 16 |
+| [`lina-lancheros/`](lina-lancheros/) | Lina Lancheros · Content Manager | los procesos que contó en su entrevista | 16 |
+| [`melanny-duque/`](melanny-duque/) | Melanny Duque · Equipo de contenido | los procesos del área (todavía sin entrevista) | 16 |
+| [`natalia-ortiz/`](natalia-ortiz/) | Natalia Ortiz · Equipo de contenido | los procesos del área (todavía sin entrevista) | 16 |
+| [`isabel-rosales/`](isabel-rosales/) | Isabel Rosales · Equipo de contenido | los procesos del área (todavía sin entrevista) | 16 |
+| [`diana-salazar/`](diana-salazar/) | Diana Salazar · Equipo de contenido | los procesos del área (todavía sin entrevista) | 16 |
+| [`natalia-jimenez/`](natalia-jimenez/) | Natalia Jiménez · Equipo de contenido | los procesos del área (todavía sin entrevista) | 16 |
+| [`camilo-rodriguez/`](camilo-rodriguez/) | Camilo Rodríguez · Equipo de contenido | los procesos del área (todavía sin entrevista) | 16 |
 
 Dentro de cada carpeta:
 
-- **`generales/`** — las 4 skills de Eikon que sirven a cualquier persona de la agencia. Son las mismas en las tres carpetas.
-- **`especificas/`** — las de su silla, agrupadas por los procesos que nos contaron en la entrevista.
+- **`generales/`** — las 4 skills de Eikon que sirven a cualquier persona de la agencia.
+- **`especificas/`** — las 12 del área de contenido.
 - **`descargas/`** — un `.zip` por skill, listo para subir a Claude.
 - **`README.md`** — su guía: qué skill usar en cada proceso y por dónde empezar.
 
@@ -81,24 +87,24 @@ Y una de datos: lo **restringido** —credenciales, bases de clientes finales, c
 
 **Clase** (de su documento de gobernanza del 4-sep): **C1** sale al cliente — revisión previa, siempre · **C3** opera la mesa — se revisa la excepción · **C4** insumo que otros consumen — se revisa al publicarlo. «—» = posterior a ese documento o motor de apoyo: queda por clasificar en el comité.
 
-| Skill | Para qué | Clase | Estado | Kimberly | Carolina | Lina |
-|---|---|:-:|---|:-:|:-:|:-:|
-| `eikon-brand-context` | Ficha de marca: tono, lineamientos y lo que nunca se hace | C4 | Con su revisión del 28-ago | general | general | general |
-| `eikon-acta-reunion` | Acta con decisiones, propuestas y pendientes, cada uno con su cita | C3 | Con su revisión del 28-ago | general | general | general |
-| `eikon-sop-writer` | Documenta un proceso como SOP ejecutable | C3 | Con su revisión del 28-ago | general | general | general |
-| `eikon-priorizador-dia` | Ordena las solicitudes contra la capacidad real del equipo | C3 | Con su revisión del 28-ago | general | general | general |
-| `eikon-parrilla-mensual` | Parrilla del mes, pieza por pieza | C1 | Con su revisión del 28-ago | ✔ | ✔ | ✔ |
-| `eikon-caption-writer` | Copies y captions en la voz de cada marca | C1 | Con su revisión del 28-ago | ✔ | ✔ | ✔ |
-| `eikon-brief-creativo` | Brief de diseño de una página, sin huecos | C1 | Con su revisión del 28-ago | ✔ | ✔ | ✔ |
-| `eikon-referencias-tendencias` | Barrido de tendencias y referencias por marca | C4 | Con su revisión del 28-ago | ✔ | ✔ | ✔ |
-| `eikon-ajustes-parrilla` | Aplica el feedback del cliente a toda la parrilla | C1 | Con su revisión del 28-ago | ✔ | ✔ | ✔ |
-| `eikon-qa-creativo` | Revisa un concepto antes de producirlo | C1 | Primera versión | ✔ | — | — |
-| `eikon-qa-pieza` | Revisa la pieza terminada antes de enviarla | C1 | Con su revisión del 28-ago | ✔ | ✔ | — |
-| `eikon-metricas-pull` | Normaliza los exports de todas las plataformas | C3 | Con su revisión del 28-ago | ✔ | ✔ | ✔ |
-| `eikon-reporte-mensual` | Informe mensual de una cuenta, en tres capas | — | Primera versión | ✔ | ✔ | ✔ |
-| `reportar-estado` | Motor: semáforo y plan contra real | — | Motor del catálogo base | ✔ | ✔ | ✔ |
-| `eikon-estado-cuenta` | Estado real de una cuenta y qué está en riesgo | C3 | En piloto desde el 16-ago | ✔ | ✔ | ✔ |
-| `eikon-respuestas-comunidad` | Borradores de respuesta a comentarios y mensajes | C1 | Con su revisión del 28-ago | — | ✔ | — |
+| Skill | Para qué | Clase | Estado | Carpeta |
+|---|---|:-:|---|---|
+| `eikon-brand-context` | Ficha de marca: tono, lineamientos y lo que nunca se hace | C4 | Con su revisión del 28-ago | generales |
+| `eikon-acta-reunion` | Acta con decisiones, propuestas y pendientes, cada uno con su cita | C3 | Con su revisión del 28-ago | generales |
+| `eikon-sop-writer` | Documenta un proceso como SOP ejecutable | C3 | Con su revisión del 28-ago | generales |
+| `eikon-priorizador-dia` | Ordena las solicitudes contra la capacidad real del equipo | C3 | Con su revisión del 28-ago | generales |
+| `eikon-parrilla-mensual` | Parrilla del mes, pieza por pieza | C1 | Con su revisión del 28-ago | especificas |
+| `eikon-caption-writer` | Copies y captions en la voz de cada marca | C1 | Con su revisión del 28-ago | especificas |
+| `eikon-brief-creativo` | Brief de diseño de una página, sin huecos | C1 | Con su revisión del 28-ago | especificas |
+| `eikon-referencias-tendencias` | Barrido de tendencias y referencias por marca | C4 | Con su revisión del 28-ago | especificas |
+| `eikon-ajustes-parrilla` | Aplica el feedback del cliente a toda la parrilla | C1 | Con su revisión del 28-ago | especificas |
+| `eikon-qa-creativo` | Revisa un concepto antes de producirlo | C1 | Primera versión | especificas |
+| `eikon-qa-pieza` | Revisa la pieza terminada antes de enviarla | C1 | Con su revisión del 28-ago | especificas |
+| `eikon-metricas-pull` | Normaliza los exports de todas las plataformas | C3 | Con su revisión del 28-ago | especificas |
+| `eikon-reporte-mensual` | Informe mensual de una cuenta, en tres capas | — | Primera versión | especificas |
+| `reportar-estado` | Motor: semáforo y plan contra real | — | Motor del catálogo base | especificas |
+| `eikon-estado-cuenta` | Estado real de una cuenta y qué está en riesgo | C3 | En piloto desde el 16-ago | especificas |
+| `eikon-respuestas-comunidad` | Borradores de respuesta a comentarios y mensajes | C1 | Con su revisión del 28-ago | especificas |
 
 **Estado:** *En piloto* = ya se usa con una cuenta real · *Con su revisión del 28-ago* = se hizo o se ajustó con los comentarios que nos devolvieron · *Primera versión* = todavía no pasó por su revisión · *Motor del catálogo base* = skill genérica que otra de Eikon usa por dentro.
 
@@ -106,9 +112,9 @@ Y una de datos: lo **restringido** —credenciales, bases de clientes finales, c
 
 Algunas están pensadas para correr una detrás de otra: la salida de una es la entrada de la siguiente. Por ahora se corren paso a paso: se le pide a Claude la primera y, con su resultado, la siguiente.
 
-- **Mes de contenido** (Contenido, con revisión de social media): `eikon-brand-context` → `eikon-referencias-tendencias` → `eikon-parrilla-mensual` → `eikon-caption-writer` → `eikon-brief-creativo`. Completo en las tres carpetas. Ataca los siete días que hoy toma armar la grilla.
-- **Parrilla a entrega** (Contenido y diseño): `eikon-ajustes-parrilla` → `eikon-brief-creativo` → `eikon-estado-cuenta` → `eikon-priorizador-dia`. Completo en las tres carpetas. Va de la parrilla con comentarios del cliente a la cola de producción. El paso de mapa de dependencias llega en la fase 2.
-- **Informe del mes (orgánico)** (Contenido, con medios para la pauta): `eikon-metricas-pull` → `eikon-reporte-mensual`. Completo en las tres carpetas. La lectura de la pauta (`eikon-insight-pauta`) la hace medios y entra entre los dos pasos.
+- **Mes de contenido** (Contenido, con revisión de social media): `eikon-brand-context` → `eikon-referencias-tendencias` → `eikon-parrilla-mensual` → `eikon-caption-writer` → `eikon-brief-creativo`. Completo en todas las carpetas. Ataca los siete días que hoy toma armar la grilla.
+- **Parrilla a entrega** (Contenido y diseño): `eikon-ajustes-parrilla` → `eikon-brief-creativo` → `eikon-estado-cuenta` → `eikon-priorizador-dia`. Completo en todas las carpetas. Va de la parrilla con comentarios del cliente a la cola de producción. El paso de mapa de dependencias llega en la fase 2.
+- **Informe del mes (orgánico)** (Contenido, con medios para la pauta): `eikon-metricas-pull` → `eikon-reporte-mensual`. Completo en todas las carpetas. La lectura de la pauta (`eikon-insight-pauta`) la hace medios y entra entre los dos pasos.
 
 ## Lo que hay que saber
 
@@ -118,7 +124,6 @@ Algunas están pensadas para correr una detrás de otra: la salida de una es la 
 - **`eikon-reporte-mensual` se armó sin los informes de muestra** que pedimos (uno bueno y uno flojo): el formato de tres capas es nuestra propuesta. Con esos dos ejemplos lo calibramos.
 - **Algunas skills nombran otras de Eikon que son de otras áreas** (`eikon-alerta-pauta`, `eikon-brief-interrogador`, `eikon-cotizador`, `eikon-deck-propuesta`, `eikon-insight-pauta`, `eikon-propuesta-estrategica`, `eikon-query-listening`, `eikon-salud-cuenta`). Esas las usan cuentas, medios y nuevos negocios, y están en la [entrega del 5 de octubre](https://github.com/camilordholaamigo/entrega-eikon-skills-fase1). No hacen falta para usar las de esta carpeta.
 - **`eikon-referencias-tendencias` toma la competencia de `eikon-inventario-assets`**, que todavía no se entrega. Pásenle ustedes la lista de competidores de la marca, o pónganla en su ficha.
-- **Si una skill nombra otra que no está en su carpeta**, búsquenla en la carpeta de otra persona del equipo. Este repositorio tiene todas las de contenido.
 
 ## Lo que todavía falta, y por qué
 

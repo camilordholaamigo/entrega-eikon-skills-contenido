@@ -1,6 +1,6 @@
 # Carolina Valbuena · Content y Community Management · cuenta de Ecuador
 
-Tu kit de Eikon OS: **15 skills**: 4 generales y 11 específicas de tu silla. Los `.zip` para subir a Claude están en [`descargas/`](descargas/); cómo instalarlas, en el [README principal](../README.md#cómo-instalarlas).
+Tu kit de Eikon OS: **16 skills**: 4 generales y 12 específicas del área de contenido. Los `.zip` para subir a Claude están en [`descargas/`](descargas/); cómo instalarlas, en el [README principal](../README.md#cómo-instalarlas).
 
 ## Por dónde empezar
 
@@ -58,6 +58,14 @@ Tu kit de Eikon OS: **15 skills**: 4 generales y 11 específicas de tu silla. Lo
 | [`eikon-metricas-pull`](especificas/eikon-metricas-pull/SKILL.md) | Normaliza los exports de todas las plataformas | C3 | Con su revisión del 28-ago |
 | [`eikon-reporte-mensual`](especificas/eikon-reporte-mensual/SKILL.md) | Informe mensual de una cuenta, en tres capas | — | Primera versión |
 | [`reportar-estado`](especificas/reportar-estado/SKILL.md) | Motor: semáforo y plan contra real | — | Motor del catálogo base |
+
+### Del resto del equipo
+
+*Las que usan tus compañeras en procesos que no contaste en tu entrevista.*
+
+| Skill | Para qué | Clase | Estado |
+|---|---|:-:|---|
+| [`eikon-qa-creativo`](especificas/eikon-qa-creativo/SKILL.md) | Revisa un concepto antes de producirlo | C1 | Primera versión |
 
 > ⚠️ **Accesos y datos personales.** Las claves de las redes de cada cliente (el Excel de accesos) son información **restringida**: no se pegan en Claude ni se suben como adjunto. Para `eikon-respuestas-comunidad`, peguen los mensajes sin teléfonos, correos ni números de documento.
 

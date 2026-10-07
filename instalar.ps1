@@ -3,9 +3,15 @@
 #       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 kimberly-chocano
 #       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 carolina-valbuena
 #       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 lina-lancheros
+#       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 melanny-duque
+#       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 natalia-ortiz
+#       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 isabel-rosales
+#       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 diana-salazar
+#       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 natalia-jimenez
+#       powershell -ExecutionPolicy Bypass -File .\instalar.ps1 camilo-rodriguez
 param(
   [Parameter(Mandatory = $true)]
-  [ValidateSet('kimberly-chocano', 'carolina-valbuena', 'lina-lancheros')]
+  [ValidateSet('kimberly-chocano', 'carolina-valbuena', 'lina-lancheros', 'melanny-duque', 'natalia-ortiz', 'isabel-rosales', 'diana-salazar', 'natalia-jimenez', 'camilo-rodriguez')]
   [string]$Persona
 )
 $ErrorActionPreference = 'Stop'

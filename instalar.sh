@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # Instala en Claude Code las skills de una persona (generales + especificas).
-# Uso:  ./instalar.sh kimberly-chocano | carolina-valbuena | lina-lancheros
+# Uso:  ./instalar.sh kimberly-chocano | carolina-valbuena | lina-lancheros | melanny-duque | natalia-ortiz | isabel-rosales | diana-salazar | natalia-jimenez | camilo-rodriguez
 set -euo pipefail
 persona="${1:-}"
 case "$persona" in
-  kimberly-chocano|carolina-valbuena|lina-lancheros) ;;
-  *) echo "Uso: ./instalar.sh kimberly-chocano | carolina-valbuena | lina-lancheros" >&2; exit 1 ;;
+  kimberly-chocano|carolina-valbuena|lina-lancheros|melanny-duque|natalia-ortiz|isabel-rosales|diana-salazar|natalia-jimenez|camilo-rodriguez) ;;
+  *) echo "Uso: ./instalar.sh kimberly-chocano | carolina-valbuena | lina-lancheros | melanny-duque | natalia-ortiz | isabel-rosales | diana-salazar | natalia-jimenez | camilo-rodriguez" >&2; exit 1 ;;
 esac
 raiz="$(cd "$(dirname "$0")" && pwd)"
 destino="$HOME/.claude/skills"
